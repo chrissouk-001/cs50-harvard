@@ -1,4 +1,4 @@
-# cs50-harvard
+# cs50-harvard 2024-25
 
 ## description
 This repository contains the code for all the CS50 Harvard courses.
