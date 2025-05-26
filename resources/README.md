@@ -1,74 +1,32 @@
-# CS50 Resources 🛠️
+# CS50 Resources
 
-## Study Materials & Tools
-Essential resources to enhance your CS50 learning experience.
+Study materials and tools for CS50 courses.
 
-## 📚 Quick References
+## Quick References
 
-### Programming Languages
 - **C Programming** - Memory management, debugging
-- **Python** - Libraries, best practices, style guide
-- **JavaScript** - ES6+ features, frameworks
+- **Python** - Libraries, best practices
+- **JavaScript** - ES6+ features, frameworks  
 - **SQL** - Database design, optimization
 
-### Development Tools
+## Essential Tools
+
 - **CS50 IDE** - Cloud development environment
-- **VS Code** - Local development setup
-- **Git/GitHub** - Version control basics
+- **VS Code** - Local development
+- **Git/GitHub** - Version control
 - **Debugging** - GDB, testing strategies
 
-## 📖 Study Guides
+## Practice Resources
 
-### Course-Specific
-- **CS50x** - Week-by-week study plan
-- **CS50 Python** - Python mastery roadmap  
-- **CS50 Web** - Full-stack development path
-- **CS50 AI** - Machine learning fundamentals
-- **CS50 SQL** - Database design principles
-
-## 🔧 Essential Tools
-
-- **CS50 IDE** - Cloud development environment
-- **Visual Studio Code** - Local development with extensions
-- **Git/GitHub** - Version control and collaboration
-- **GDB** - C program debugging
-- **Pytest** - Python testing framework
-
-## 📝 Practice Resources
-
-### Coding Practice
 - **CS50 Problem Sets** - Course assignments
-- **LeetCode** - Algorithm challenges  
-- **HackerRank** - Programming practice
-- **Project Euler** - Mathematical problems
+- **LeetCode** - Algorithm challenges
+- **Project Ideas** - Personal portfolio projects
 
-### Project Ideas
-- **Web Applications** - Todo lists, blogs, e-commerce
-- **Data Analysis** - CSV processing, visualizations
-- **AI Projects** - Image classification, chatbots
-- **Database Projects** - Inventory systems, social networks
+## Community
 
-## 🤝 Community & Support
-
-- **Ed Discussion** - Course Q&A platform
-- **Discord** - Real-time community chat
-- **Reddit r/cs50** - Community discussions
-- **Stack Overflow** - Technical problem solving
-
-## 🆘 Getting Help
-
-1. **Check Documentation** - Course materials first
-2. **Search Community** - Ed Discussion, Stack Overflow
-3. **Ask Peers** - Discord and study groups
-4. **Contact TAs** - Office hours and forums
-
-## 📖 Additional Learning
-
-- **Coursera/edX** - Additional computer science courses
-- **LeetCode/HackerRank** - Algorithm practice
-- **GitHub** - Open source contributions
-- **Tech Blogs** - Stay updated with industry trends
+- **Ed Discussion** - Course Q&A
+- **Discord** - Community chat
+- **Stack Overflow** - Technical help
 
 ---
-
-*Essential resources for CS50 success!* 📚 
+*CS50 Resources* 📚 
